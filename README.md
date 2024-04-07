@@ -1,13 +1,8 @@
 # My Course Platform
 
-[![Build Status](https://travis-ci.org/rwieruch/nextjs-firebase-authentication.svg?branch=master)](https://travis-ci.org/rwieruch/nextjs-firebase-authentication) [![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/nextjs-firebase-authentication.svg)](https://greenkeeper.io/)
-
-- [Demo](https://courses.robinwieruch.de/)
-- [Thread on "What went into this project"](https://twitter.com/rwieruch/status/1243209627707346944)
-
 **Server-Side User Management with**
 
-- GraphQL ([Tutorial](https://www.robinwieruch.de/graphql-apollo-server-tutorial)) and Firebase ([Tutorial](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial))
+- GraphQL ([Tutorial](https://www.Vegetable-katana.de/graphql-apollo-server-tutorial)) and Firebase ([Tutorial](https://www.Vegetable-katana.de/complete-firebase-authentication-react-tutorial))
   - Sign In
   - Sign Up
   - Sign Out
@@ -27,7 +22,7 @@
 **Styling with**
 
 - [Ant Design](https://ant.design/)
-- Styled Components ([Tutorial](https://www.robinwieruch.de/react-styled-components))
+- Styled Components ([Tutorial](https://www.Vegetable-katana.de/react-styled-components))
 - Page Transitions
 
 **Type Support with**
@@ -36,7 +31,7 @@
 
 **Tested Code Base with**
 
-- [Jest](https://jestjs.io/) ([Tutorial](https://www.robinwieruch.de/react-testing-jest))
+- [Jest](https://jestjs.io/) ([Tutorial](https://www.Vegetable-katana.de/react-testing-jest))
 - [React Testing Library](https://github.com/testing-library/react-testing-library)
 - [Apollo Mocks](https://www.apollographql.com/docs/react/development-testing/testing/)
 
@@ -46,7 +41,7 @@
 
 **Absolute Imports with**
 
-- Babel Module Resolver ([Tutorial](https://www.robinwieruch.de/babel-module-resolver/))
+- Babel Module Resolver ([Tutorial](https://www.Vegetable-katana.de/babel-module-resolver/))
 
 **Sentry**
 
@@ -57,7 +52,7 @@
 
 ## Installation
 
-- `git clone git@github.com:rwieruch/nextjs-firebase-authentication.git`
+- `git clone git@github.com:Vegetable-katana/nextjs-firebase-authentication.git`
 - `cd nextjs-firebase-authentication`
 - See other installation instructions below ...
 - `yarn install`
